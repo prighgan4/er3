@@ -5,7 +5,7 @@ import Vk.Post;
 public class VkPost {
     private Post[] posts;
 
-    public Post[] generateBlock(){
+    public Post[] generateBlock() {
         return null;
     }
 }
