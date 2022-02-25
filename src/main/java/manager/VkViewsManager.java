@@ -1,7 +1,7 @@
 package manager;
 
 
-import Vk.ViewsInfo;
+import Domain.ViewsInfo;
 
 public class VkViewsManager {
     private ViewsInfo[] viewsInfos;

@@ -1,11 +1,12 @@
 package manager;
 
-import Vk.CommentsInfo;
+import Domain.CommentsInfo;
 
 public class VkCommentsManager {
     private CommentsInfo[] commentsInfos;
 
     public CommentsInfo[] generateBlock() {
+
         return null;
     }
 }

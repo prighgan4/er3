@@ -1,7 +1,7 @@
-package Vk;
+package Domain;
 
 public class RepostsInfo {
     private int count;
-    private long user_reposted;
+    private long userReposted;
     // + get/set на все поля
 }

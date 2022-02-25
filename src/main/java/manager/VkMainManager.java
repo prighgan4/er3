@@ -3,9 +3,10 @@ package manager;
 public class VkMainManager {
     private BlockManager[] managers;
 
-    public String generateRecord() {
+    public String generatePost() {
         for (BlockManager manager : managers) {
             String block = manager.generateBlock();
+
         }
         return null;
     }

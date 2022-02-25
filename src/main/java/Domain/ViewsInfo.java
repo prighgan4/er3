@@ -1,4 +1,4 @@
-package Vk;
+package Domain;
 
 public class ViewsInfo {
     private int count;

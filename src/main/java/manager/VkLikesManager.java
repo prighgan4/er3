@@ -1,6 +1,6 @@
 package manager;
 
-import Vk.LikesInfo;
+import Domain.LikesInfo;
 
 public class VkLikesManager {
     private LikesInfo[] likesInfos;

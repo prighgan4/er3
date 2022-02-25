@@ -1,6 +1,6 @@
 package manager;
 
-import Vk.RepostsInfo;
+import Domain.RepostsInfo;
 
 public class VkRepostManager {
     private RepostsInfo[] repostsInfos;
